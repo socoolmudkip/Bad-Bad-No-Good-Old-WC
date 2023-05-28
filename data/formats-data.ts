@@ -2832,6 +2832,11 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU",
 	},
+	garchompoutland: {
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
+	},
 	garchompmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
