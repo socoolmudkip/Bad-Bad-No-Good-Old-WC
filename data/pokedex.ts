@@ -34416,9 +34416,9 @@ xatumega: {
 		color: "Gray",
 		eggGroups: ["Amorphous"],
 	},
-	obsideoni: {
+	obsideon: {
 		num: -2524,
-		name: "Obsideon-I",
+		name: "Obsideon",
 		types: ["Rock"],
 		genderRatio: {M: 0.50, F: 0.50},
 		baseStats: {hp: 75, atk: 120, def: 75, spa: 60, spd: 115, spe: 80},
