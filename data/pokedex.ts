@@ -6303,8 +6303,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		heightm: 1.8,
 		weightkg: 100.5,
 		color: "Red",
-		prevo: "Bayleef",
-		evoLevel: 32,
 		eggGroups: ["Monster", "Grass"],
 	},
 	meganiumfoolish: {
