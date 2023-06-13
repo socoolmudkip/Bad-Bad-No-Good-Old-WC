@@ -8276,32 +8276,6 @@ export const Items: {[itemid: string]: ItemData} = {
 		num: 669,
 		gen: 6,
 	},
-	armirantyranitarite: {
-		name: "Armiran Tyranitarite",
-		spritenum: 607,
-		megaStone: "Tyranitar-DB-Mega",
-		megaEvolves: "Tyranitar-DB",
-		itemUser: ["Tyranitar-DB"],
-		onTakeItem(item, source) {
-			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
-			return true;
-		},
-		num: 669,
-		gen: 6,
-	},
-	armirangarchompite: {
-		name: "Armiran Garchompite",
-		spritenum: 607,
-		megaStone: "Garchomp-DB-Mega",
-		megaEvolves: "Garchomp-DB",
-		itemUser: ["Garchomp-DB"],
-		onTakeItem(item, source) {
-			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
-			return true;
-		},
-		num: 669,
-		gen: 6,
-	},
 	ultraball: {
 		name: "Ultra Ball",
 		spritenum: 521,
