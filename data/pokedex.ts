@@ -3224,6 +3224,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		heightm: 1.7,
 		weightkg: 90,
 	    color: "White",
+		eggGroups: ["Field"],
 		requiredAbility: "Cloud Burst",
 		battleOnly: "Rapidash-X",
 	},
@@ -18725,7 +18726,7 @@ xatumega: {
 		heightm: 0.7,
 		weightkg: 15.2,
 		color: "Brown",
-		evos: ["Krokorok"],
+		evos: ["Krokorok", "Kingkana"],
 		eggGroups: ["Field"],
 	},
 	krokorok: {
@@ -18753,6 +18754,20 @@ xatumega: {
 		color: "Red",
 		prevo: "Krokorok",
 		evoLevel: 40,
+		eggGroups: ["Field"],
+	},
+	kingkana: {
+		num: -70000,
+		name: "Kingkana",
+		types: ["Ground", "Dragon"],
+		baseStats: {hp: 95, atk: 137, def: 111, spa: 45, spd: 75, spe: 82},
+		abilities: {0: "Intimidate", 1: "Strong Jaw", H: "Sand Rush"},
+		heightm: 1.6,
+		weightkg: 182.2,
+		color: "Brown",
+		prevo: "Sandile",
+		evoType: "levelMove",
+		evoMove: "Ancient Power",
 		eggGroups: ["Field"],
 	},
 	darumaka: {
@@ -38653,6 +38668,7 @@ saboltx: {
 		heightm: 1.3,
 		weightkg: 40.3,
 		color: "Black",
+		prevo: "Zangoose",
 		eggGroups: ["Field"],
 	},
 	silviper: {
@@ -38664,6 +38680,7 @@ saboltx: {
 		heightm: 2.7,
 		weightkg: 52.5,
 		color: "Black",
+		prevo: "Seviper",
 		eggGroups: ["Field", "Dragon"],
 	},
 	slingray: {
