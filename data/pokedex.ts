@@ -35441,7 +35441,6 @@ saboltx: {
 		weightkg: 3.4,
 		color: "Black",
 		eggGroups: ["Field"],
-		changesFrom: "Bremand",
 	},
 	bremanddrummer: {
 		num: -2750,
@@ -35456,7 +35455,6 @@ saboltx: {
 		weightkg: 3.4,
 		color: "Yellow",
 		eggGroups: ["Field"],
-		changesFrom: "Bremand",
 	},
 	bremandguitarist: {
 		num: -2750,
@@ -35471,7 +35469,6 @@ saboltx: {
 		weightkg: 3.4,
 		color: "Yellow",
 		eggGroups: ["Field"],
-		changesFrom: "Bremand",
 	},
 	persage: {
 		num: -2751,
