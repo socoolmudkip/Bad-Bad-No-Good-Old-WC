@@ -8962,7 +8962,7 @@ realist: {
 			if (this.effectState.fervor) return;
 				if (move.flags['contact']) {
 					this.effectState.fervor = true;
-					this.boost({spe: 2}, pokemon);
+					this.boost({spe: 1.5}, pokemon);
 				}
 		},
 		onSwitchIn(pokemon) {
