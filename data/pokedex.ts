@@ -35306,6 +35306,17 @@ saboltx: {
 		color: "Black",
 		eggGroups: ["Amorphous"],
 	},
+	reginalous: {
+        num: -3916,
+        name: "Reginalous",
+        types: ["Psychic"],
+        baseStats: {hp: 50, atk: 150, def: 75, spa: 150, spd: 75, spe: 80},
+        abilities: {0: "Mystic Wind"},
+        heightm: 0.1,
+        weightkg: 0.3,
+	    color: "Pink",
+	    eggGroups: ["Undiscovered"],
+    },
 	gastesla: {
 		num: -2741,
 		name: "Gastesla",
