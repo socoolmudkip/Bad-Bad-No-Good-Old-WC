@@ -10674,6 +10674,922 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	mukdeltapsychic: {
 		tier: "Illegal",
 	},
+	venusaurfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	charizardfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	blastoisefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	butterfreefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	beedrillfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	pidgeotfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	raticatefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	fearowfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	arbokfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sandslashfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	nidoqueenfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	nidokingfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	clefablefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	ninetalesfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	wigglytufffoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	vileplumefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	parasectfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	venomothfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dugtriofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	persianfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	golduckfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	primeapefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	arcaninefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	poliwrathfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	alakazamfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	machampfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	victreebelfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	tentacruelfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	golemfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	rapidashfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dodriofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dewgongfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mukfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	cloysterfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	gengarfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	hypnofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	kinglerfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	electrodefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	exeggutorfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	marowakfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	hitmonleefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	hitmonchanfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	weezingfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	chanseyfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	kangaskhanfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	seakingfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	starmiefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mrmimefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	scytherfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	jynxfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	pinsirfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	taurosfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	gyaradosfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	laprasfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	vaporeonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	jolteonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	flareonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	omastarfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	kabutopsfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	snorlaxfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dragonitefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mewtwofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mewfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	meganiumfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	typhlosionfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	feraligatrfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	furretfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	noctowlfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	ledianfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	ariadosfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	crobatfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	lanturnfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	xatufoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	ampharosfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	bellossomfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	azumarillfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sudowoodofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	politoedfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	jumplufffoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sunflorafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	quagsirefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	espeonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	umbreonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	slowkingfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	wobbuffetfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	forretressfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dunsparcefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	steelixfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	granbullfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	qwilfishfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	scizorfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	shucklefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	heracrossfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	ursaringfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	magcargofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	piloswinefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	octilleryfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	delibirdfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	skarmoryfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	houndoomfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	kingdrafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	donphanfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	porygon2folish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	stantlerfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	smearglefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	hitmontopfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	miltankfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	blisseyfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	raikoufoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	enteifoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	suicunefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	tyranitarfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	lugiafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	hoohfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	celebifoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sceptilefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	blazikenfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	swampertfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mightyenafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	beautiflyfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dustoxfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	ludicolofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	shiftryfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	swellowfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	pelipperfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	gardevoirfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	masquerainfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	breloomfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	slakingfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	ninjaskfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	exploudfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	hariyamafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	delcattyfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sableyefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mawilefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	aggronfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	manectricfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	swalotfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sharpedofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	wailordfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	cameruptfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	torkoalfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	grumpigfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	flygonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	cacturnefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	altariafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	zangoosefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	seviperfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	lunatonefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	solrockfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	whiscashfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	crawdauntfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	claydolfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	cradilyfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	armaldofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	miloticfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	kecleonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	banettefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	tropiusfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	chimechofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	absolfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	glaliefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	walreinfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	huntailfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	gorebyssfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	relicanthfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	salamencefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	metagrossfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	regirockfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	regicefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	registeelfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	latiasfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	latiosfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	kyogrefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	groudonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	rayquazafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	jirachifoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	deoxysfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	perrserkerfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	magnezonefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sirfetchdfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	lickilickyfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	rhyperiorfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	tangrowthfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mrrimefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	electivirefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	magmortarfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	leafeonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	glaceonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sylveonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	porygonzfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	togekissfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	ambipomfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	yanmegafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	honchkrowfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mismagiusfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	gliscorfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	weavilefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mamoswinefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	cursolafoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	obstagoonfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	galladefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	probopassfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	roseradefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dusknoirfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	froslassfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dhelmisefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	venusaurfoolishsevii: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	charizardfoolishsevii: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	blastoisefoolishsevii: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	pidgeotfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	sandslashfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	venomothfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	dugtriofoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	tentacruelfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mukfoolishkantof: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mukfoolishkantom: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	weezingfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	meganiumfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	typhlosionfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	feraligatrfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	furretfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	granbullfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	togekissfoolishkanto: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	girafarigfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	medichamfoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	slowbrofoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	mantinefoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	raichufoolish: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
 	celebicefira: {
 		tier: "OU",
 	},
