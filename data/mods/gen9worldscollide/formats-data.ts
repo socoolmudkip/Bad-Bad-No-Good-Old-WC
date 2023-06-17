@@ -2852,6 +2852,9 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 		doublesTier: "DOU",
 	},
+	garchompoutlands: {
+		tier: "OU",
+	},
 	garchompmega: {
 		tier: "(OU)",
 		doublesTier: "DOU",
@@ -3409,7 +3412,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DUU",
 	},
 	kingkana: {
-		tier: "UU",
+		tier: "OU",
 		doublesTier: "DUU",
 	},
 	darumaka: {
