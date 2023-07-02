@@ -35564,7 +35564,7 @@ saboltx: {
 		name: "Bathygigas",
 		types: ["Water", "Psychic"],
 		genderRatio: {M: 0.75, F: 0.25},
-		baseStats: {hp: 155, atk: 85, def: 70, spa: 85, spd: 105, spe: 35},
+		baseStats: {hp: 130, atk: 86, def: 74, spa: 86, spd: 105, spe: 54},
 		abilities: {0: "Torrent", H: "Amplifier"},
 		heightm: 12.4,
 		weightkg: 758.4,
